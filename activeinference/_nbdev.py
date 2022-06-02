@@ -2,16 +2,7 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"possible_food_sizes": "01_bogacz.ipynb",
-         "prior_food_size": "01_bogacz.ipynb",
-         "priors": "01_bogacz.ipynb",
-         "estimated_light_intensity": "01_bogacz.ipynb",
-         "noisyness_of_estimate": "01_bogacz.ipynb",
-         "light_intensity_likelihood": "01_bogacz.ipynb",
-         "possible_light_intensities": "01_bogacz.ipynb",
-         "likelihoods": "01_bogacz.ipynb",
-         "probs_of_possible_food_sizes": "01_bogacz.ipynb",
-         "hypothesis_interval_width": "01_bogacz.ipynb"}
+index = {"exercise1": "01_bogacz.ipynb"}
 
 modules = ["bogacz.py"]
 
